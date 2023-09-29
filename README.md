@@ -23,8 +23,11 @@ Este texto está en __*negrita y cursiva*__
     1. primer submenú
     2. segundo submenú 
 - cuarta opción de lista desordenada
-    3. tercer submenú
-    4. cuarto submenú
+    * tercer submenú
+    * cuarto submenú
 - quinta opción de lista desordenada
 + sexta opción de lista desordenada
 + septima opción de lista desordenada
+
+Hay distintas clases de analogía: la analogía legis, es la aplicación de la ley cuando existe una laguna legal; analogía iuris; 
+la corrección se realiza con los principios generales del derecho ya que no encuentro una ley que presente eadem ratio, por eso me dirijo a los principios generales del derecho.
