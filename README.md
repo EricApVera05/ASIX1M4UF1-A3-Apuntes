@@ -31,3 +31,13 @@ Este texto está en __*negrita y cursiva*__
 
 Hay distintas clases de analogía: la analogía legis, es la aplicación de la ley cuando existe una laguna legal; analogía iuris; 
 la corrección se realiza con los principios generales del derecho ya que no encuentro una ley que presente eadem ratio, por eso me dirijo a los principios generales del derecho.
+```
+<html>
+<head>
+</head>
+<body>
+    <p> Esto es un parrafo?<p>
+</body>
+
+</html>
+```
