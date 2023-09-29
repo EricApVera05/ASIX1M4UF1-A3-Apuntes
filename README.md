@@ -41,5 +41,5 @@ la corrección se realiza con los principios generales del derecho ya que no enc
 
 </html>
 ```
-![Esto es una imagen] (https://github.com/EricApVera05/ASIX1M4UF1-A3-Apuntes/blob/main/F6ad3CsWMAAco5I.jpeg "AMEN")
+![Esto es una imagen](https://github.com/EricApVera05/ASIX1M4UF1-A3-Apuntes/blob/main/F6ad3CsWMAAco5I.jpeg "AMEN")
 <video src="./ssstwitter.com_1695766944562.mp4" width="420"  height="240"></video>
