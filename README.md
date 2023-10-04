@@ -48,3 +48,8 @@ la corrección se realiza con los principios generales del derecho ya que no enc
 |Col 3 es|Derecha| 135€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+
+-[] Opción A
+-[X] Opción B
+-[] Opción C
