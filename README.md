@@ -42,9 +42,9 @@ la corrección se realiza con los principios generales del derecho ya que no enc
 ```
 ![Esto es una imagen](https://github.com/EricApVera05/ASIX1M4UF1-A3-Apuntes/blob/main/F6ad3CsWMAAco5I.jpeg "AMEN")
 
-    |Primera Col.| Segunda Col.| Tercera Col|
-    |------------|:-----------:|-----------:|
-    |Col 2 es|Centrada| 35€|
-    |Col 3 es|Derecha| 135€|
-    |Estilo Cebra|Gris|Blanco|
-    |Clase|ASIX1|M4|
+|Primera Col.| Segunda Col.| Tercera Col|
+|------------|:-----------:|-----------:|
+|Col 2 es|Centrada| 35€|
+|Col 3 es|Derecha| 135€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
